@@ -1,4 +1,4 @@
-echo "lower.github.com" >> README.md
+echo "lower.github.com" >> index.html
 git init
 git add README.md
 git commit -m "first commit"
